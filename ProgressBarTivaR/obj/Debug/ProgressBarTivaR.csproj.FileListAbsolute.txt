@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\bin\Debug\ProgressBarTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\bin\Debug\ProgressBarTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\bin\Debug\ProgressBarTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.frmProgressBar.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ProgressBarTivaR\ProgressBarTivaR\obj\Debug\ProgressBarTivaR.pdb
